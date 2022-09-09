@@ -1,4 +1,4 @@
-# facts-in-llms
+# How does GPT-2 small know stuff?
 
 For my Week 4 project at MLAB, I tried to answer the question: how do language models know what they know? I played a bunch with GPT-2 small, and came up with a few hypotheses for what's going on.
 
